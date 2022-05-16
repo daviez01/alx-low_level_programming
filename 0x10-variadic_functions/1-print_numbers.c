@@ -1,6 +1,5 @@
 /*
- * File: 1-print_numbers.c
- * Auth: Tolulope Fakunle
+ * name: Ilori Davies
  */
 
 #include "variadic_functions.h"
