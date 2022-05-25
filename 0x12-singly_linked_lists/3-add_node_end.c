@@ -1,7 +1,6 @@
 #include "lists.h"
 
 /**
- * author: Davies Ilori
  * add_node_end - adds a new node at the end
  * of a list_t list.
  * @head: head of the linked list.
